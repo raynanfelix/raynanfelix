@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,50:4C1D95,100:312E81&text=Raynan%20Barbosa%20Felix&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20%7C%20Rapid%20Prototyping&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+products+end-to-end+with+AI-assisted+development;Vibe+coding+%2B+critical+review+%3D+shipped+software;JavaScript+%7C+TypeScript+%7C+Python+%7C+Next.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Developer+%2F+Vibe+Coder+building+full+SaaS+products;Vibe+coding+%2B+critical+review+%3D+shipped+software;JavaScript+%7C+TypeScript+%7C+Python+%7C+Next.js" />
 
 <br>
 
@@ -25,9 +25,9 @@
 
 ## ── ABOUT ──
 
-Self-taught AI Developer focused on **full-stack engineering accelerated by AI-assisted workflows**. I design and ship complete products — interface, backend, authentication, databases and deployment — using tools like Claude Code and Codex not as a shortcut, but as a force multiplier I still have to review, debug and own line by line.
+**AI Developer / Vibe Coder** — I build complete SaaS products end-to-end (frontend, backend, authentication, databases, deployment) using AI-assisted development as my core workflow. Tools like Claude Code and Codex are how I write, but I'm the one reviewing, debugging, testing and deciding what ships — vibe coding isn't "let the AI do it," it's iterating fast and owning the result.
 
-My engineering mindset is product-first: every project I build starts from a real use case (video conversion, traffic protection, community platforms) and goes through iteration, validation and deployment, not just a tutorial checklist.
+My engineering mindset is product-first: every project starts from a real use case (video conversion, traffic protection, community platforms) and goes through iteration, validation and deployment, not just a tutorial checklist.
 
 **🎯 Open To:** Junior AI Developer · AI Engineer · AI-assisted Full Stack Developer · Automation Developer · Rapid Prototyping Developer — remote or São Paulo, Brazil.
 
@@ -49,19 +49,30 @@ My engineering mindset is product-first: every project I build starts from a rea
 ![HTML5](https://img.shields.io/badge/-HTML5-1E1B4B?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1E1B4B?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-1E1B4B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/-Vite-1E1B4B?style=flat-square&logo=vite&logoColor=646CFF)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-1E1B4B?style=flat-square&logo=framer&logoColor=0055FF)
 
 **Backend & Databases**
 <br>
 ![Node.js](https://img.shields.io/badge/-Node.js-1E1B4B?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-1E1B4B?style=flat-square&logo=express&logoColor=FFFFFF)
 ![Supabase](https://img.shields.io/badge/-Supabase-1E1B4B?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E1B4B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1E1B4B?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/-Firebase-1E1B4B?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Prisma](https://img.shields.io/badge/-Prisma-1E1B4B?style=flat-square&logo=prisma&logoColor=FFFFFF)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-1E1B4B?style=flat-square&logo=fastapi&logoColor=A78BFA)
 
 **Cloud, DevOps & Tooling**
 <br>
 ![Git](https://img.shields.io/badge/-Git-1E1B4B?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E1B4B?style=flat-square&logo=github&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-1E1B4B?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/-Vercel-1E1B4B?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-1E1B4B?style=flat-square&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/-Postman-1E1B4B?style=flat-square&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/-Figma-1E1B4B?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/-VS_Code-1E1B4B?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![Claude](https://img.shields.io/badge/-Claude_Code-1E1B4B?style=flat-square&logo=anthropic&logoColor=D97757)
 ![OpenAI](https://img.shields.io/badge/-Codex-1E1B4B?style=flat-square&logo=openai&logoColor=FFFFFF)
 
@@ -71,7 +82,7 @@ My engineering mindset is product-first: every project I build starts from a rea
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Vibe Coding / AI-assisted Dev | ●●●●○ | Daily driver for building full applications end-to-end |
+| Vibe Coding / AI-assisted Dev | ●●●●○ | Daily driver for building full SaaS products end-to-end |
 | Prompt Engineering | ●●●●○ | Structuring prompts for code generation, debugging and refactors |
 | AI-generated Code Review | ●●●●○ | Reading, testing and correcting AI output before shipping |
 | API Integration & Automation | ●●●○○ | Connecting services, webhooks and third-party APIs into products |
